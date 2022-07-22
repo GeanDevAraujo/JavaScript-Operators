@@ -1,5 +1,5 @@
 /*Autor:     Geanderson de Araújo
-Objetivo:    Testa se são maiores ou menores que 10 e 20(apenas essas duas comparações contempladas) e se os números são iguais.
+Objetivo:    Testa se são maiores ou menores que 10 e 20(apenas essas duas comparações contempladas) e se os números inseridos são iguais.
 Versão:      1.0
 */
 
