@@ -1,4 +1,4 @@
-# Welcome to JavaScript-Operators(Syntax):heart:
+# Welcome to JavaScript-Operators(Syntax):computer:
 
 ## Goal :dart:
 This repository contains the practical activity of the "Syntax and Operators" Course, which is part of the Javascript Basecamp that I studied from  [Digital Innovation One](https://digitalinnovation.one/).
